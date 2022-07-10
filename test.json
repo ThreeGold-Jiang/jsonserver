@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "slides":[{"id":1,"image":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201807%2F20%2F20180720182108_S4rMK.thumb.400_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1660032435&t=70178a016f4edb808ab383a98be19ce2"},
+  {"id":2,"image":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgs.focus.cn%2Fupload%2Fpics%2F38914%2Fa_389131145.jpg&refer=http%3A%2F%2Fimgs.focus.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1660032492&t=375de0e65c66a9eefcdbcd9f1401ae66"}]
+}
